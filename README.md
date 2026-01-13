@@ -32,9 +32,11 @@ Telegram-бот, выполняющий функции обучающей сис
     Получите свой тг токен в тг боте @BotFather и вставьте его в файл config.py
 
    ```bash
-   venv/Scripts/activate
+   pip install aiogram
+   pip install sqlalchemy
    python main.py
 
 ## База данных
+
 
 ![](img/database.jpg)
