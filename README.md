@@ -13,7 +13,7 @@ Telegram-бот, выполняющий функции обучающей сис
 - **Язык:** Python
 - **Библиотеки:** aiogram, sqlalchemy
 - **Фреймворк:** aiogram
-- **БД:**SQLite
+- **БД:** SQLite
 - **API:** Telegram Bot API
 
 ---
@@ -40,3 +40,4 @@ Telegram-бот, выполняющий функции обучающей сис
 
 
 ![](img/database.jpg)
+
